@@ -1,4 +1,4 @@
-* High level specification for updating Gridware firmware
+* High level specification for updating Gridware firmware [DRAFT]
 
 ** Transmission of firmware
 Firmware updates should be statically and dynamically tested for potential
